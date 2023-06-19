@@ -1,6 +1,6 @@
-## 🧛🏻‍♂️ Self-Proclaimed Sorcerer of Server-Side Shenanigans 🧛🏻‍♂️
+# Self-Proclaimed Sorcerer of Server-Side Shenanigans 🧛🏻‍♂️
 
-Haha! Hi there, I'm your friendly neighbourhood backend developer who can make your data dance, your servers sing, and your bugs beg for mercy! 🥸
+Haha! Hi there, I'm your friendly neighbourhood backend developer. 🥸
 
 - 🔭 I’m currently working on myself! 🏋️‍♂️
 - 🌱 I’m currently learning everything I could! 🗒️
