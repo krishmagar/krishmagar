@@ -8,3 +8,6 @@ Haha! Hi there, I'm your friendly neighbourhood backend developer. 🥸
 ## Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,nodejs,express,nestjs,docker,kubernetes,graphql,prisma,mongodb,postgres,mysql,redis,jenkins,jest,kafka,nginx,git,gitlab,aws,firebase,postman,vscode,linux)](https://skillicons.dev)
 ---
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishmagar&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
