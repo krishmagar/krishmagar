@@ -1,10 +1,7 @@
 # Self-Proclaimed Sorcerer 🧛🏻‍♂️
 
-Hi there, I'm your friendly neighbourhood full stack developer.
-
-- 🔭 I’m currently working on myself! 🏋️‍♂️
-- 🌱 I’m currently learning everything I could! 🗒️
+Software Developer | Node.js & Golang
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,nestjs,docker,kubernetes,graphql,prisma,mongodb,postgres,redis,git,postman,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,js,nodejs,nextjs,express,nestjs,docker,kubernetes,graphql,prisma,mongodb,postgres,redis,git,linux)](https://skillicons.dev)
 ---
